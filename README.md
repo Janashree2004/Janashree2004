@@ -31,7 +31,9 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://www.hackerrank.com/profile/717821d113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/janashree" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Janashree2004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/janashree" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Janashree2004" height="30" width="40" />
+</a>
+
 &nbsp;
 <a href="http://www.skillrack.com/profile/373909/12261f67003bf872d043fa293dd255edd9986a63" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skillrack" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
