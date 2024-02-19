@@ -31,11 +31,9 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://www.hackerrank.com/profile/717821d113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/janashree" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Janashree2004" height="30" width="40" />
-</a>
-
+<a href="https://www.codechef.com/users/janashree" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FCodeChef%2F&psig=AOvVaw30Y0SFsj6oMGYH3scBAeUo&ust=1708425049590000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjI5bSZt4QDFQAAAAAdAAAAABAE" height="30" width="40" /></a>
 &nbsp;
-<a href="http://www.skillrack.com/profile/373909/12261f67003bf872d043fa293dd255edd9986a63" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skillrack" alt="Janashree2004" height="30" width="40" /></a>
+<a href="http://www.skillrack.com/profile/373909/12261f67003bf872d043fa293dd255edd9986a63" target="_blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fskillrackforum%2F&psig=AOvVaw2W1V75yF61bIjxax3HzkAR&ust=1708424838006000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiI8c-Yt4QDFQAAAAAdAAAAABAI" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
 
 ---
