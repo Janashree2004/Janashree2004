@@ -1,4 +1,4 @@
-# Welcome to [Janashree2004]
+# Welcome to [Janashree2004](Janashree2004)
 
 <a href="https://www.linkedin.com/in/jana-shree-68029224a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -15,16 +15,13 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Computer Science and Design Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
+- 🔭 I’m currently working on [Python](https://www.python.org/) platform
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing]).
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Jana_shree/)
+  - Tools and technologies from <a href="#"><img alt="python" src="https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=white"></a> ecosystem
+- 📬 How to reach me: [janashreelingaraj@gmail.com](mailto:janashreelingaraj@gmail.com)
+- 📝 [Resume](https://drive.google.com/drive/home).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
