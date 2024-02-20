@@ -35,15 +35,15 @@
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://github.com/Janashree2004](https://github.com/Janashree2004)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Janashree2004" height="30" width="40" /></a>
+<a href="https://github.com/Janashree2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://leetcode.com/Jana_shree/](https://leetcode.com/Jana_shree/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janashree2004" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jana_shree/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.hackerrank.com/profile/717821d113](https://www.hackerrank.com/profile/717821d113)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Janashree2004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/717821d113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.hackerrank.com/profile/717821d113](https://www.hackerearth.com/@717821d113)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Janashree2004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/717821d113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Janashree2004" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.codechef.com/users/janashree](https://www.codechef.com/users/janashree)" target="_blank"><img alt="center" src="https://www.codechef.com/sites/all/themes/abessive/logo.png" alt="Janashree2004" height="30" width="40" />
+<a href="https://www.codechef.com/users/janashree" target="_blank"><img alt="center" src="https://www.codechef.com/sites/all/themes/abessive/logo.png" alt="Janashree2004" height="30" width="40" />
 </a>
 &nbsp;
 
